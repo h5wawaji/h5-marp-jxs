@@ -39,7 +39,7 @@ It's surprisingly easy to start publishing your slide deck!
 
 Create a new _public_ repository based on this repository, from **"Use this template"** button!
 
-[![](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+[![](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/h5wawaji/h5-marp-jxs/generate)
 
 We already have [GitHub Actions workflow](.github/workflows/github-pages.yml) to build and deploy from `master` to `gh-pages` automatically. All you have got to [turn on GitHub Pages with `gh-pages` branch](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) from **"Settings"** tab.
 
@@ -47,13 +47,13 @@ We already have [GitHub Actions workflow](.github/workflows/github-pages.yml) to
 
 Push **"Deploy to netlify"** button. [Netlify] will create your repository based on this example and host website from `master` branch automatically.
 
-[![Deploy to Netlify](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+[![Deploy to Netlify](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/h5wawaji/h5-marp-jxs)
 
 ### <img src="https://icongr.am/simple/zeit.svg" width="24" height="24" valign="bottom" /> [Vercel]
 
 Push **"Deploy"** button. [Vercel] can choose to create your repository into GitHub / GitLab / BitBucket based on this example.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/h5wawaji/h5-marp-jxs)
 
 > :information_source: The auto-generated open graph image is not available in deployment through Vercel.
 
