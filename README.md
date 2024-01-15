@@ -1,23 +1,9 @@
-# Marp CLI example
+# 经销商
+经销商防串货版本
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/yhatt/marp-cli-example)
-
-**The good starter example for using [Marp] via [Marp CLI].**
-
-- Write your slide deck by [Marp] Markdown.
-- Manage the content of slides via Git. (Using [GitPitch](https://github.com/gitpitch/gitpitch) style `PITCHME.md`)
-- Host your deck at GitHub, and publish as webpage with [GitHub Pages], [Netlify], and [Vercel].
-- Blazingly fast delivery out of the box. [Acquired all 100% Lighthouse scores!](#lighthouse)
-
-[marp]: https://marp.app/
-[marp cli]: https://github.com/marp-team/marp-cli
-[github pages]: https://pages.github.com/
-[netlify]: https://www.netlify.com/
-[vercel]: https://vercel.com/
-
-<p align="center">
-  <a href="https://yhatt.github.io/marp-cli-example"><img src="https://yhatt.github.io/marp-cli-example/og-image.jpg" width="500" /></a>
-</p>
+ 
+ 
+ 
 
 ## See published slide deck
 
@@ -25,12 +11,7 @@
 - <img src="https://icongr.am/simple/netlify.svg?colored" width="24" height="24" valign="bottom" /> **[Netlify]**: https://yhatt-marp-cli-example.netlify.app/
 - <img src="https://icongr.am/simple/zeit.svg" width="24" height="24" valign="bottom" /> **[Vercel]**: https://marp-cli-example.yhatt.vercel.app/
 
-### Lighthouse
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/3993388/115988866-7cd7fe00-a5f6-11eb-9e51-7a62da998eca.png" width="615" alt="Acquired all 100% Lighthouse scores" />
-</p>
-
+ 
 ## Usage
 
 It's surprisingly easy to start publishing your slide deck!
