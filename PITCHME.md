@@ -164,7 +164,7 @@ _paginate: false
 
 ---
 
-#   **杭州唯选**
+#   **控价系统**
  谢谢观看
 ---
 
@@ -172,4 +172,4 @@ _paginate: false
 
 ### Created by jianbing zheng  ([@h5wawaji](https://github.com/h5wawaji))
 
-[ https://github.com/h5wawaji/marp-cli-example](https://github.com/h5wawaji/h5-marp-jxs)
+[ https://github.com/h5wawaji/h5-marp-jxs](https://github.com/h5wawaji/h5-marp-jxs)
